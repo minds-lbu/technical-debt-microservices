@@ -1,0 +1,10 @@
+repo,weeks,adf_p_raw,diff_order,adf_p_differenced,stl_trend_direction,stl_trend_change_min,stl_trend_strength,granger_lag,granger_f,granger_p,granger_significant,granger_note
+DeathStarBench,273,0.01,0,0.01,rising,8213.0,0.896,,,,,no Docker Compose service count
+geoserver-cloud,311,0.0,0,0.0,rising,847.0,0.396,8,4.212,0.0001,yes,monthly p=0.7162 (DIVERGES)
+light-4j,515,0.9953,1,0.0,rising,74196.0,0.936,,,,,no Docker Compose service count
+microservices-demo,411,0.0051,0,0.0051,falling,-2153.0,0.816,,,,,no Docker Compose service count
+piggymetrics,348,0.025,0,0.025,flat,7.0,0.015,8,15.273,0.0,yes,monthly p=0.0000 (holds)
+robot-shop,270,0.1121,1,0.0001,rising,289.0,0.745,2,5.489,0.0046,yes,monthly: insufficient variation in service count
+spring-petclinic-microservices,592,0.123,1,0.0,rising,128569.0,0.942,7,34.364,0.0,yes,monthly p=0.0000 (holds)
+taotao-cloud-project,279,0.0049,0,0.0049,falling,-148832.0,0.0,,,,,no Docker Compose service count
+train-ticket,253,0.5715,1,0.0,falling,-8166.0,0.758,4,0.27,0.8971,no,monthly p=0.8127 (holds)
