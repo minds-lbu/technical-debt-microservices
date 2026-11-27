@@ -1,7 +1,6 @@
 # Tracing Technical Debt Footprints in Large-Scale Microservices Systems
 
-Replication package for an MSc dissertation at Leeds Beckett University, School of
-Built Environment, Engineering and Computing.
+
 
 The study measures code-level technical debt at every commit across nine open-source
 microservice repositories, then asks three questions of the resulting time series: how
